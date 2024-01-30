@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://xavi.tech](https://xavi.tech)
+- 👨‍💻 All of my projects are available at [https://xavi.tech/#projects](https://xavi.tech/#projects)
 
-- 📫 How to reach me **github@xavi.tech**
+- 📫 How to reach me: [https://xavi.tech/#contact](https://xavi.tech/#contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
